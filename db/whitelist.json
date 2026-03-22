@@ -1,0 +1,43 @@
+{
+  "version": "20260322",
+  "domains": {
+    "gov.tw": "中華民國政府",
+    "nhi.gov.tw": "健保署",
+    "etax.nat.gov.tw": "財政部電子申報",
+    "post.gov.tw": "中華郵政",
+    "google.com": "Google",
+    "youtube.com": "YouTube",
+    "apple.com": "Apple",
+    "microsoft.com": "Microsoft",
+    "amazon.com": "Amazon",
+    "facebook.com": "Facebook / Meta",
+    "instagram.com": "Instagram",
+    "twitter.com": "X (Twitter)",
+    "linkedin.com": "LinkedIn",
+    "github.com": "GitHub",
+    "paypal.com": "PayPal",
+    "stripe.com": "Stripe",
+    "shopee.tw": "蝦皮購物",
+    "momoshop.com.tw": "momo 購物",
+    "pcHome.com.tw": "PChome",
+    "cathaybk.com.tw": "國泰世華銀行",
+    "esunbank.com.tw": "玉山銀行",
+    "ctbcbank.com": "中信銀行",
+    "taishinbank.com.tw": "台新銀行",
+    "megabank.com.tw": "兆豐銀行",
+    "fubon.com": "富邦金控",
+    "7-11.com.tw": "7-ELEVEN",
+    "familymart.com.tw": "全家便利商店",
+    "taiwanmobile.com": "台灣大哥大",
+    "cht.com.tw": "中華電信",
+    "fetnet.net": "遠傳電信"
+  },
+  "orgNames": [
+    "國泰世華", "玉山銀行", "中信銀行", "台新銀行", "兆豐銀行", "富邦",
+    "中華郵政", "健保署", "財政部", "國稅局",
+    "Google", "Apple", "Microsoft", "Amazon", "Meta", "Facebook", "Instagram",
+    "PayPal", "Stripe", "GitHub", "LinkedIn",
+    "蝦皮", "Shopee", "momo", "PChome",
+    "7-ELEVEN", "全家", "中華電信", "台灣大哥大", "遠傳"
+  ]
+}

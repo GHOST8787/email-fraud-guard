@@ -1,0 +1,29 @@
+{
+  "version": "20260322",
+  "domains": {
+    "secure-login-verify.com": "常見釣魚網域",
+    "account-verify-now.com": "帳號驗證詐騙",
+    "update-your-payment.com": "付款更新詐騙",
+    "free-gift-claim.com": "免費贈品詐騙",
+    "lottery-winner-notice.com": "中獎通知詐騙",
+    "tax-refund-gov.com": "退稅詐騙（仿冒政府）",
+    "banking-alert-tw.com": "銀行警告詐騙",
+    "shopee-verify.com": "仿冒蝦皮",
+    "momo-refund.com": "仿冒 momo 退款",
+    "apple-id-locked.com": "仿冒 Apple",
+    "google-security-alert.com": "仿冒 Google 安全警告",
+    "microsoft-account-team.com": "仿冒 Microsoft"
+  },
+  "patterns": [
+    "secure.*login.*verify",
+    "account.*verify.*now",
+    "update.*payment",
+    "free.*gift.*claim",
+    "lottery.*winner",
+    "tax.*refund",
+    "banking.*alert",
+    ".*-locked\\.com$",
+    ".*-security-alert\\.com$",
+    ".*-refund\\.com$"
+  ]
+}
