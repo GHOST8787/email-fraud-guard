@@ -1,5 +1,7 @@
 # Email Fraud Guard — Gmail 詐騙信件偵測
 
+> 📅 專案開始：2026-03
+
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![Platform](https://img.shields.io/badge/platform-Chrome-brightgreen?logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
 
